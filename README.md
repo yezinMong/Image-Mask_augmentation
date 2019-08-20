@@ -3,4 +3,5 @@
 
 
 
-![readme](./sample/readme.png)
+![readme](./sample/sample2.png)
+![readme](./sample/sample1.png)
